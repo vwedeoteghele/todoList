@@ -1,0 +1,12 @@
+{
+    "mongodbURl": "mongodb+srv://admin:<password>@cluster0.tmbar.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+    "mysql": {
+        "options": {
+          "host": "127.0.0.1",
+          "database": "tododatabase",
+          "dialect": "mysql",
+          "username": "root",
+          "password": ""
+        }
+    }
+}
